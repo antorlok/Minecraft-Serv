@@ -89,9 +89,11 @@ Depending on where your players are located, they will connect differently.
 Required mods:
 
 - Simply Swords
-- JEI (Just Enough Items)
 - AppleSkin
 - Waystones
+- Architectury API
+- Cloth Config
+- Balm
 
 ### Option A: Local Connection (You playing on the host machine)
 
