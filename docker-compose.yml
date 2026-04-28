@@ -14,9 +14,8 @@ services:
       VERSION: "1.20.1" 
       ONLINE_MODE: "FALSE"
       MOTD: "Antorlok´s Minecraft Server"
-
-      # AUTOMATIC MODS DOWNLOAD
-      MODRINTH_PROJECTS: "simply-swords, jei, appleskin, waystones"
+# AUTOMATIC MODS DOWNLOAD
+      MODRINTH_PROJECTS: "simply-swords, architectury-api, appleskin, waystones, cloth-config, balm"
       
       # TEXTURE PACK (RESOURCE PACK)
       RESOURCE_PACK: "https://github.com/Faithful-Resource-Pack/Faithful-Java-32x/releases/download/1.20/Faithful_32x_1.20.1.zip"
