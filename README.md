@@ -14,14 +14,13 @@ A fully containerized, high-performance Minecraft Forge server running on Docker
 - **🎨 Auto-Resource Pack:** Prompts players to download the Faithful 32x texture pack.
 - **🛡️ Automated Backups:** Includes a custom bash script for easy world preservation.
 - **🔓 Offline Mode:** Configured for non-premium access (`ONLINE_MODE=FALSE`).
-
 ---
 
 ## Author
 
-- **Name:** antorlok
-- **Email:** antorlok@example.com
-- **Instagram:** @antorlok
+- **Name:** Andrés Tortolero(antorlok)
+- **Email:** andres.tortolero06@gmail.com
+- **Instagram:** [andress.tor](https://www.instagram.com/andress.tor?igsh=enRtNXVpNDkxNHNx&utm_source=qr)
 
 ---
 
@@ -30,7 +29,7 @@ A fully containerized, high-performance Minecraft Forge server running on Docker
 Make sure your project directory looks like this before running the server:
 
 ```text
-📦 Minecraft-Serv
+📦 minecraft-server
  ┣ 📂 scripts
  ┃ ┗ 📜 backup.sh          # Backup automation script
  ┣ 📜 docker-compose.yml   # Docker orchestration file
