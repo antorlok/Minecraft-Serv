@@ -14,7 +14,7 @@ services:
       VERSION: "1.20.1" 
       ONLINE_MODE: "FALSE"
       MOTD: "Antorlok´s Minecraft Server"
-# AUTOMATIC MODS DOWNLOAD
+      # AUTOMATIC MODS DOWNLOAD
       MODRINTH_PROJECTS: "simply-swords, architectury-api, appleskin, waystones, cloth-config, balm"
       
       # TEXTURE PACK (RESOURCE PACK)
