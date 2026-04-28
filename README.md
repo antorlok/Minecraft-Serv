@@ -39,8 +39,11 @@ Make sure your project directory looks like this before running the server:
 
 (Note: The data and backups folders will be generated automatically).
 
-🛠️ **Prerequisites**
-Before you begin, ensure you have the following installed on your system:
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
 
 - Docker & Docker Compose
 - ngrok (Only if you want to host over the internet without port forwarding).
@@ -153,4 +156,7 @@ Run the backup:
 
 This will compress your entire world and configuration into a `.tar.gz` file inside a newly created `backups` directory, tagged with the current date and time.
 
+This is how it should appear in the menu and the image within the server:
 
+![Server Image](image-1.png)
+![Menu Appearance](image.png)
